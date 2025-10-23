@@ -1,0 +1,1 @@
+    total += menu.get(food)
