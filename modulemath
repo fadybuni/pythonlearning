@@ -1,0 +1,10 @@
+import module
+
+result = module.pi
+result = module.square(3)
+result = module.cube(5)
+result = module.circumference(2)
+result = module.area(2)
+
+print(result)
+
